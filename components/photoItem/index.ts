@@ -1,0 +1,1 @@
+export { PhotoItem } from './photoItem';
